@@ -18,7 +18,7 @@ constantly==23.10.4
 contourpy==1.2.1
 cryptography==43.0.1
 cycler==0.12.1
-daphne==1.4.2
+daphne==3.0.2
 distro==1.9.0
 dj-database-url==2.2.0
 Django==3.2
