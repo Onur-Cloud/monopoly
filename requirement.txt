@@ -1,3 +1,6 @@
 Django==1.11
 channels==1.1.8
 configparser==3.5.0
+psycopg2-binary==2.9.1
+django-heroku==0.3.1
+daphne==1.4.2
