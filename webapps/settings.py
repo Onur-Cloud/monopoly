@@ -152,3 +152,5 @@ print('Email host:port = {host}:{port}, user={user}'.format(
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'userdata')
 MEDIA_URL = '/userdata/'
+import django_heroku
+django_heroku.settings(locals())
